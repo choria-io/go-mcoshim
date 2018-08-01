@@ -2,6 +2,7 @@ package: github.com/choria-io/go-mcoshim
 import:
 - package: github.com/sirupsen/logrus
   version: ^1
+- package: github.com/tidwall/gjson
 testImport:
 - package: github.com/onsi/ginkgo
   version: ^1
