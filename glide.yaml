@@ -1,0 +1,9 @@
+package: github.com/choria-io/go-mcoshim
+import:
+- package: github.com/sirupsen/logrus
+  version: ^1
+testImport:
+- package: github.com/onsi/ginkgo
+  version: ^1
+- package: github.com/onsi/gomega
+  version: ^1
