@@ -1,8 +1,12 @@
-hash: a4665570258327be0cd59673bb3b42a1b1de2f6af5212dd601d1f910495a15e3
-updated: 2018-08-01T12:01:18.058876+02:00
+hash: 391d1dbef1e1f53525cea16a390520b945f418713024de4d9c4fb6a5e6ffc8cb
+updated: 2018-08-01T13:12:10.663015+02:00
 imports:
 - name: github.com/sirupsen/logrus
   version: 3e01752db0189b9157070a0e1668a620f9a85da2
+- name: github.com/tidwall/gjson
+  version: f123b340873a0084cb27267eddd8ff615115fbff
+- name: github.com/tidwall/match
+  version: 1731857f09b1f38450e2c12409748407822dc6be
 testImports:
 - name: github.com/hpcloud/tail
   version: a1dbeea552b7c8df4b542c66073e393de198a800
